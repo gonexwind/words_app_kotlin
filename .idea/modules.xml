@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-basics-kotlin-words-app-starter.iml" filepath="$PROJECT_DIR$/.idea/modules/android-basics-kotlin-words-app-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Words.iml" filepath="$PROJECT_DIR$/.idea/modules/Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Words.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Words.app.iml" />
     </modules>
   </component>
 </project>
